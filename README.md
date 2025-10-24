@@ -63,7 +63,8 @@ THIN:
 END
 
 **Output:**  
-<img width="1919" height="1134" alt="Screenshot 2025-10-22 182938" src="https://github.com/user-attachments/assets/be6276cb-ff45-4dfe-80f2-bd461a874feb" />
+<img width="1919" height="1142" alt="Screenshot 2025-10-24 081706" src="https://github.com/user-attachments/assets/762843f8-fa7e-4923-99ae-24abe38f3390" />
+
 
 
 
